@@ -1,2 +1,1 @@
-# lyrics_spark
-spark
+An analysis of Songs lyrics with PySpark
